@@ -1,6 +1,6 @@
 # Mathematical Modeling of Motor Vehicle Crash Injury Severity in Massachusetts
 
-## Math Modeling Competition — 2025–2026
+## Modeling the Future Challenge -- 2025–2026
 
 **Team #24377**
 
