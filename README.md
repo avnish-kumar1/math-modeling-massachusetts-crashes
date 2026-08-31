@@ -4,6 +4,13 @@
 
 **Team #24377**
 
+### Authors:
+* Avnish Kumar (Newton North High School Class of 2026/Virginia Tech Class of 2030)
+* Oren Schwatz (Newton North High School Class of 2028)
+* Maxwell (Max) Nelson (Newton North High School Class of 2027)
+
+-------
+
 This repository contains our 25-page mathematical modeling research paper investigating motor vehicle crash injury severity in the Commonwealth of Massachusetts.
 
 ### Abstract
@@ -18,7 +25,7 @@ The crash severity was modeled using an Ordered Logistic Regression model, with 
 * Serious injury
 * Fatal injury
 
-The model achieved approximately 75.5% out-of-sample prediction accuracy. Major predictors of severe injury outcomes included driver medical illness, speed-related driving behavior, driving fatigue, and an intersection being present.
+The model achieved approximately 75.6% out-of-sample prediction accuracy. Major predictors of severe injury outcomes included driver medical illness, speed-related driving behavior, driving fatigue, and an intersection being present.
 
 ### Key Findings
 
@@ -29,7 +36,7 @@ Our analysis found that crash injury severity is associated, and can be identifi
 * Driver characteristics and behavior
 * Number of vehicles and manner of collision
 
-This project used the model's results to create mitigation strategies involving infrastructure redesign, speed management, behavioral risk reduction, and roadway lightning.
+This project used the model's results to create mitigation strategies involving infrastructure redesign, speed management, behavioral risk reduction, and roadway lighting.
 
 ### Data & Methodology
 
@@ -55,12 +62,7 @@ Our model included five major categories for risk:
 
 ### Research Paper
 
-[Read the full 25-page research paper (PDF)!](https://github.com/avnish-kumar1/math-modeling-massachusetts-crashes/blob/main/24377_6_MathMolesReport_1772481394.pdf)
-
-### Authors:
-* Avnish Kumar (Newton North High School Class of 2026/Virginia Tech Class of 2030)
-* Oren Schwatz (Newton North High School Class of 2028)
-* Maxwell (Max) Nelson (Newton North High School Class of 2027)
+[Read the full 25-page research paper!](https://github.com/avnish-kumar1/math-modeling-massachusetts-crashes/blob/main/24377_6_MathMolesReport_1772481394.pdf)
 
 ### Project Timeline
 
