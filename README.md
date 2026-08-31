@@ -55,7 +55,7 @@ Our model included five major categories for risk:
 
 ### Research Paper
 
-📄 **[Read the full 25-page research paper]([./Massachusetts_Motor_Crash_Modeling_Paper.pdf](https://github.com/avnish-kumar1/math-modeling-massachusetts-crashes/blob/main/24377_6_MathMolesReport_1772481394.pdf))**
+**[Read the full 25-page research paper!]([./Massachusetts_Motor_Crash_Modeling_Paper.pdf](https://github.com/avnish-kumar1/math-modeling-massachusetts-crashes/blob/main/24377_6_MathMolesReport_1772481394.pdf))**
 
 ### Authors:
 * Avnish Kumar (Newton North High School Class of 2026/Virginia Tech Class of 2030)
